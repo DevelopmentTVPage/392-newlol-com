@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "New lol"
+baseURL = "https:\/\/newlol.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+cookieDomain = "newlol.com"
+
+[params]
+loginId = "1758904"
+subfolder = ""
